@@ -17,7 +17,7 @@ Files is a files manager app built in python using pygame. In it's current early
 
 **Settings Page**
 
-![image](https://user-images.githubusercontent.com/29596317/112463171-d4920800-8db1-11eb-8ece-04c312ab5a01.png)
+![image](https://user-images.githubusercontent.com/29596317/112463660-7154a580-8db2-11eb-83ff-5a7d879daa13.png)
 
 **Multi-Page Support**
 
