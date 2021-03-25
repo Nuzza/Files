@@ -1,2 +1,28 @@
 # Files
 Files is a files manager app built in python using pygame. In it's current early state of development, it can navigate almost all folders on your computer except the ones that Files doesn't have permission to access. It can launch any file except for shorcuts and can create folders and files.
+
+# Screenshots
+
+**Home Page**
+
+![image](https://user-images.githubusercontent.com/29596317/112462925-8ed53f80-8db1-11eb-838a-07b27969fb61.png)
+
+**New Folder/File Page**
+
+![image](https://user-images.githubusercontent.com/29596317/112463248-eecbe600-8db1-11eb-8fa9-e9ece5ac3191.png)
+
+**Change Path Page**
+
+![image](https://user-images.githubusercontent.com/29596317/112463008-a7ddf080-8db1-11eb-833c-a241faf3dcfb.png)
+
+**Settings Page**
+
+![image](https://user-images.githubusercontent.com/29596317/112463171-d4920800-8db1-11eb-8ece-04c312ab5a01.png)
+
+**Multi-Page Support**
+
+![image](https://user-images.githubusercontent.com/29596317/112463380-1327c280-8db2-11eb-8c8b-e4279dc7fb5c.png)
+
+**Responsive GUI**
+
+![image](https://user-images.githubusercontent.com/29596317/112463085-bcba8400-8db1-11eb-81d9-6bfe05276e18.png)
